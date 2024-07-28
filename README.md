@@ -3,11 +3,11 @@
 
 <img src="https://i.imgur.com/UdHeQBh.png">
 
-<br>Sobre mí<br>¡Hola y bienvenido a mi portafolio!
-Soy un "alquimista digital" apasionado por la magia de la programación y la innovación tecnológica. Aunque mi trayectoria profesional comenzó en la industria farmacéutica, rápidamente descubrí que mi verdadera vocación estaba en la creación de soluciones originales y únicas para la industria IT.
+<br>Sobre mí<br>¡Hola y bienvenido a mi perfil de GitHub!
+Soy un "alquimista digital" apasionado por la magia de la programación y la innovación tecnológica. Aunque mi carrera profesional se desarrolla durante varios años como químico en la industria farmacéutica, con el tiempo descubrí que mi verdadera vocación estaba en la creación de soluciones originales y únicas para la industria IT.
 Como Full Stack Developer, he transformado mi pasión por la tecnología en un viaje constante de aprendizaje y experimentación. Disfruto convertir ideas complejas en realidades funcionales, siempre buscando la manera más eficiente y creativa de abordar los problemas.
 Creo firmemente en la importancia de la colaboración y la creatividad para llevar los proyectos al siguiente nivel. Mi enfoque se centra en entender las necesidades específicas de cada proyecto y encontrar la mejor manera de innovar y aportar valor.
-Si tienes un proyecto desafiante y quieres crear una solución única... ¡Colaboremos para crear algo asombroso juntos!<br><br>Mis habilidades<br>Desarrollo Frontend: HTML, CSS, JavaScript, Typescript, Angular, Tailwind CSS<br>Desarrollo Backend: Node.js, MongoDB, PHP, MySQL<br>Herramientas de control de versiones: Git, GitHub<br>Pruebas y depuración: Jest, Mocha, Chai<br><br>Mi objetivo<br>Seguir destilando conocimiento como Full Stack Developer, contribuir al desarrollo de aplicaciones innovadoras y explorar nuevos territorios digitales. Estoy abierto a colaboraciones, oportunidades laborales y proyectos interesantes.<br><br>Contacto<br>Si estás interesado en mi trabajo o tienes alguna pregunta, ¡no dudes en contactarme! Puedes encontrarme en Linkedin:  www.linkedin.com/in/oserranom.<br><br>¡Gracias por visitar mi perfil!
+Si tienes un proyecto desafiante y quieres crear una solución única... ¡Colaboremos para crear algo asombroso juntos!
 
 
 # 💻 Tech Stack:
