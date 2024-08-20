@@ -2,6 +2,7 @@
 ¡Hola! 👋 Soy Óscar<br>
 
 <img src="https://i.imgur.com/UdHeQBh.png">
+<br>
 
 ¡Hola y bienvenido a mi perfil de GitHub!
 Soy un "alquimista digital" apasionado por la magia de la programación y la innovación tecnológica. Aunque mi carrera profesional se desarrolla durante varios años como químico en la industria farmacéutica, con el tiempo descubrí que mi verdadera vocación estaba en la creación de soluciones originales y únicas para la industria IT.
