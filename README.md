@@ -25,9 +25,9 @@ Si tienes un proyecto que requiere una solución única y estás listo para llev
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
 		</tr>
 		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
@@ -39,14 +39,18 @@ Si tienes un proyecto que requiere una solución única y estás listo para llev
 </div><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oserranom&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=oserranom&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oserranom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+	![](https://github-readme-stats.vercel.app/api?username=oserranom&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+	![](https://github-readme-streak-stats.herokuapp.com/?user=oserranom&theme=dark&hide_border=false)<br/>
+	![](https://github-readme-stats.vercel.app/api/top-langs/?username=oserranom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div> <br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=oserranom&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+	![](https://github-contributor-stats.vercel.app/api?username=oserranom&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div><br>
 
----
-[![](https://visitcount.itsvg.in/api?id=oserranom&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+	[![](https://visitcount.itsvg.in/api?id=oserranom&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
