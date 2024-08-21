@@ -36,21 +36,6 @@ Si tienes un proyecto que requiere una solución única y estás listo para llev
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/></code></td>
 		</tr>
 	</table>
-</div><br>
-
-# 📊 GitHub Stats:
-<div align="center">
-	![](https://github-readme-stats.vercel.app/api?username=oserranom&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-	![](https://github-readme-streak-stats.herokuapp.com/?user=oserranom&theme=dark&hide_border=false)<br/>
-	![](https://github-readme-stats.vercel.app/api/top-langs/?username=oserranom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div> <br>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-	![](https://github-contributor-stats.vercel.app/api?username=oserranom&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div><br>
-
-<div align="center">
-	[![](https://visitcount.itsvg.in/api?id=oserranom&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
+
 
