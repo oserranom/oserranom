@@ -50,6 +50,6 @@ Si tienes un proyecto que requiere una solución única y estás listo para llev
 </div>
 
 <br>
-<h2 style="text-align: center">¡GRACIAS POR LA VISITA!</h2>
+<h3>¡GRACIAS POR LA VISITA!</h3>
 
 
