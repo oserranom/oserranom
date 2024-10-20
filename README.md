@@ -15,10 +15,10 @@ Mi objetivo:<br>Seguir destilando conocimiento como Full Stack Developer, contri
 
 <ul>
 	<li>
-		<a href="https://www.linkedin.com/in/oserranom/">Linkedin</a>
+		<a href="https://www.linkedin.com/in/oserranom/" target="_blank">Linkedin</a>
 	</li>
 	<li>
-		<a href="https://oserranom.pro/">Mi Portafolio</a>
+		<a href="https://oserranom.pro/" target="_blank">Mi Portafolio</a>
 	</li>
 </ul>
 
