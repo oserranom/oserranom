@@ -49,7 +49,7 @@ Si tienes un proyecto que requiere una solución única y estás listo para llev
 	</table>
 </div>
 
-<br>
-<h3>¡GRACIAS POR LA VISITA!</h3>
+<br><br>
+###¡GRACIAS POR LA VISITA!
 
 
