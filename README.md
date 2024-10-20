@@ -22,7 +22,7 @@ Mi objetivo:<br>Seguir destilando conocimiento como Full Stack Developer, contri
 	</li>
 </ul>
 
-<br>¡Gracias por visitar mi perfil!
+
 
 
 # 💻 Tech Stack:
@@ -48,5 +48,7 @@ Mi objetivo:<br>Seguir destilando conocimiento como Full Stack Developer, contri
 		</tr>
 	</table>
 </div>
+
+<br>¡GRACIAS POR LA VISITA!
 
 
