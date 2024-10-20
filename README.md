@@ -11,7 +11,18 @@ Mi enfoque se basa en la innovación constante y en encontrar la manera más efi
 
 Si tienes un proyecto que requiere una solución única y estás listo para llevarlo a cabo... ¡Hablemos y hagamos algo extraordinario juntos!
 
-Mi objetivo:<br>Seguir destilando conocimiento como Full Stack Developer, contribuir al desarrollo de aplicaciones innovadoras y explorar nuevos territorios digitales. Estoy abierto a colaboraciones, oportunidades laborales y proyectos interesantes.<br><br>Contacto:<br>Si estás interesado en mi trabajo o tienes alguna pregunta, ¡no dudes en contactarme! Puedes encontrarme en Linkedin:  www.linkedin.com/in/oserranom.<br><br>¡Gracias por visitar mi perfil!
+Mi objetivo:<br>Seguir destilando conocimiento como Full Stack Developer, contribuir al desarrollo de aplicaciones innovadoras y explorar nuevos territorios digitales. Estoy abierto a colaboraciones, oportunidades laborales y proyectos interesantes.<br><br>Contacto:<br>Si estás interesado en mi trabajo o tienes alguna pregunta, ¡no dudes en contactarme! Puedes encontrarme en: <br>
+
+<ul>
+	<li>
+		<a href="www.linkedin.com/in/oserranom">Linkedin</a>
+	</li>
+	<li>
+		<a href="https://oserranom.pro/">Mi Portafolio</a>
+	</li>
+</ul>
+
+<br>¡Gracias por visitar mi perfil!
 
 
 # 💻 Tech Stack:
