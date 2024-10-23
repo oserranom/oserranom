@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <h1 align="center"> 💫 About Me: </h1>
 ¡Hola! 👋 Soy Óscar<br>
 
 <img src="https://i.imgur.com/UdHeQBh.png">
@@ -50,6 +50,6 @@ Si tienes un proyecto que requiere una solución única y estás listo para llev
 </div>
 
 <br><br>
-## ¡GRACIAS POR LA VISITA!
+### ¡GRACIAS POR LA VISITA!
 
 
