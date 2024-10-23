@@ -9,8 +9,9 @@ Soy un alquimista digital que ha pasado de transformar sustancias químicas a tr
 
 Mi enfoque se basa en la innovación constante y en encontrar la manera más eficiente de resolver problemas, siempre con un toque de creatividad. Valoro profundamente la colaboración, ya que creo que es la clave para llevar cualquier proyecto al siguiente nivel. Estoy comprometido con entender las necesidades específicas de cada desafío y aportar soluciones que realmente marquen la diferencia.
 
-Si tienes un proyecto que requiere una solución única y estás listo para llevarlo a cabo... ¡Hablemos y hagamos algo extraordinario juntos!
+Si tienes un proyecto que requiere una solución única y estás listo para llevarlo a cabo... ¡Hablemos y hagamos algo extraordinario juntos!<br>
 
+Puedes encontrarme en: 
 <br> 
 
 <ul>
@@ -25,7 +26,7 @@ Si tienes un proyecto que requiere una solución única y estás listo para llev
 
 <br>
 
-# 💻 Tech Stack:
+# <h2 align="center"> 💻 Tech Stack: </h2>
 <div align="center">
 	<table>
 		<tr>
@@ -50,6 +51,6 @@ Si tienes un proyecto que requiere una solución única y estás listo para llev
 </div>
 
 <br><br>
-### ¡GRACIAS POR LA VISITA!
+### <h3 align="center"> ¡GRACIAS POR LA VISITA! </h3>
 
 
