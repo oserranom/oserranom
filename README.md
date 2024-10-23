@@ -50,6 +50,6 @@ Si tienes un proyecto que requiere una solución única y estás listo para llev
 </div>
 
 <br><br>
-### ¡GRACIAS POR LA VISITA!
+## ¡GRACIAS POR LA VISITA!
 
 
