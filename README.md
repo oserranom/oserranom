@@ -55,6 +55,13 @@ Puedes encontrarme en:
 
 <br>
 
+<br>
+
+# <h2 align="center"> GitHub Stats: </h2> <br>
+
+![oserranom's Stats](https://github-readme-stats.vercel.app/api?username=oserranom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![oserranom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oserranom&theme=vue-dark&hide_border=true)
+![oserranom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oserranom&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <br><br>
 ### <h3 align="center"> ¡GRACIAS POR LA VISITA! </h3>
