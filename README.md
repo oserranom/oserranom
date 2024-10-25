@@ -54,10 +54,7 @@ Puedes encontrarme en:
 </div>
 
 <br>
-
-# <h2 align="center"> Gitub stats: </h2> <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?oserranom=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oserranom)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 ### <h3 align="center"> ¡GRACIAS POR LA VISITA! </h3>
