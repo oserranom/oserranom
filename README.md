@@ -17,19 +17,12 @@ Puedes encontrarme en:
 
 <ul>
 	<li>
-		<a href="https://www.linkedin.com/in/oserranom/" target="_blank">Linkedin</a>
+		 <a href="https://www.linkedin.com/in/oserranom/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	</li>
 	<li>
-		<a href="https://oserranom.pro/" target="_blank">Mi Portafolio</a>
+		  <a href="https://oserranom.pro/" target="_blank"><img src="https://img.shields.io/badge/-Portafolio-green?style=for-the-badge&logo=web&logoColor=white"></a>
 	</li>
 </ul>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/oserranom/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://oserranom.pro/" target="_blank"><img src="https://img.shields.io/badge/-Portafolio-green?style=for-the-badge&logo=web&logoColor=white"></a>
-</p>
-
-
 
 <br>
 
