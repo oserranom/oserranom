@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/UdHeQBh.png">
 <br>
 
-¡Hola y bienvenido a mi perfil de GitHub!<br>
+¡Bienvenido a mi perfil de GitHub!<br>
 Soy un alquimista digital que ha pasado de transformar sustancias químicas a transformar ideas en código. Aunque mi carrera comenzó en la industria farmacéutica como químico, descubrí con el tiempo que mi verdadera pasión está en la creación de soluciones tecnológicas originales para el mundo IT. Ahora, como Full Stack Developer, me dedico a convertir conceptos complejos en herramientas funcionales y efectivas.
 
 Mi enfoque se basa en la innovación constante y en encontrar la manera más eficiente de resolver problemas, siempre con un toque de creatividad. Valoro profundamente la colaboración, ya que creo que es la clave para llevar cualquier proyecto al siguiente nivel. Estoy comprometido con entender las necesidades específicas de cada desafío y aportar soluciones que realmente marquen la diferencia.
