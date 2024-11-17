@@ -4,7 +4,8 @@
 <img src="https://i.imgur.com/UdHeQBh.png">
 <br>
 
-¡Bienvenido a mi perfil de GitHub!<br>
+¡Bienvenido a mi perfil de GitHub!<br><br>
+
 Soy un alquimista digital que ha pasado de transformar sustancias químicas a transformar ideas en código. Aunque mi carrera comenzó en la industria farmacéutica como químico, descubrí con el tiempo que mi verdadera pasión está en la creación de soluciones tecnológicas originales para el mundo IT. Ahora, como Full Stack Developer, me dedico a convertir conceptos complejos en herramientas funcionales y efectivas.
 
 Mi enfoque se basa en la innovación constante y en encontrar la manera más eficiente de resolver problemas, siempre con un toque de creatividad. Valoro profundamente la colaboración, ya que creo que es la clave para llevar cualquier proyecto al siguiente nivel. Estoy comprometido con entender las necesidades específicas de cada desafío y aportar soluciones que realmente marquen la diferencia.
@@ -22,6 +23,12 @@ Puedes encontrarme en:
 		<a href="https://oserranom.pro/" target="_blank">Mi Portafolio</a>
 	</li>
 </ul>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oserranom/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://oserranom.pro/" target="_blank"><img src="https://img.shields.io/badge/-Portafolio-green?style=for-the-badge&logo=web&logoColor=white"></a>
+</p>
+
 
 
 <br>
