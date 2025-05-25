@@ -1,8 +1,10 @@
 # <h1 align="center"> 💫 About Me: </h1>
+
 ¡Hola! 👋 Soy Óscar<br>
 
-<img src="https://i.imgur.com/UdHeQBh.png">
-<br>
+<p align="center">
+  <img src="https://i.imgur.com/UdHeQBh.png" alt="Banner" />
+</p>
 
 ¡Bienvenido a mi perfil de GitHub!<br><br>
 
@@ -12,19 +14,19 @@ Mi enfoque se basa en la innovación constante y en encontrar la manera más efi
 
 Si tienes un proyecto que requiere una solución única y estás listo para llevarlo a cabo... ¡Hablemos y hagamos algo extraordinario juntos!<br>
 
-Puedes encontrarme en: 
-<br> 
+---
 
-<ul>
-	<li>
-		 <a href="https://www.linkedin.com/in/oserranom/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	</li>
-	<li>
-		  <a href="https://oserranom.pro/"><img src="https://img.shields.io/badge/-Portafolio-green?style=for-the-badge&logo=web&logoColor=white"></a>
-	</li>
-</ul>
+<p align="center">
+  <a href="https://www.linkedin.com/in/oserranom/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://oserranom.pro/">
+    <img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-1abc9c?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
 
-<br>
+---
 
 # <h2 align="center"> 💻 Tech Stack: </h2> <br>
 
@@ -53,21 +55,19 @@ Puedes encontrarme en:
 	</table>
 </div>
 
-<br>
+---
 
-<br>
+# <h2 align="center"> 📊 GitHub Stats: </h2>
 
-# <h2 align="center"> GitHub Stats: </h2> <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oserranom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oserranom&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="47%" />
+</div>
 
-![oserranom's Stats](https://github-readme-stats.vercel.app/api?username=oserranom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-	
-![oserranom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oserranom&theme=vue-dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oserranom&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
 
-![oserranom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oserranom&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+---
 
-
-
-<br><br>
-### <h3 align="center"> ¡GRACIAS POR LA VISITA! </h3>
-
-
+<h3 align="center"> ¡GRACIAS POR LA VISITA! </h3>
