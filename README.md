@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/UdHeQBh.png" alt="Banner" />
 </p>
 
-¡Bienvenido a mi perfil de GitHub!<br><br> 
+¡Bienvenido a mi perfil de GitHub!
 
 Soy desarrollador Full Stack y lo que más disfruto es crear soluciones tecnológicas prácticas y eficientes. Me encanta transformar ideas en aplicaciones reales usando tecnologías como Node.js, TypeScript, Vue y C#, siempre aprendiendo y mejorando.
 
@@ -14,6 +14,15 @@ Mi experiencia anterior en el sector farmacéutico me ha dado una perspectiva di
 
 Creo firmemente en la colaboración y en entender a fondo las necesidades de cada proyecto para aportar valor real. Si tienes un reto o una idea que quieras llevar adelante, ¡hablemos y construyamos algo genial juntos!
 
+---
+
+Welcome to my GitHub profile!
+
+I’m a Full Stack developer who truly enjoys creating practical and efficient tech solutions. I love turning ideas into real applications using technologies like Node.js, TypeScript, Vue, and C#, always learning and improving.
+
+My previous experience in the pharmaceutical sector has given me a different perspective to approach problems with creativity and analytical thinking, but today my true drive is technology and software development.
+
+I strongly believe in collaboration and deeply understanding each project’s needs to bring real value. If you have a challenge or idea you want to pursue, let’s talk and build something great together!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oserranom/">
@@ -24,8 +33,6 @@ Creo firmemente en la colaboración y en entender a fondo las necesidades de cad
     <img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-1abc9c?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
-
----
 
 # <h2 align="center"> 💻 Tech Stack: </h2> <br>
 
@@ -61,11 +68,3 @@ Creo firmemente en la colaboración y en entender a fondo las necesidades de cad
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oserranom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="47%" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oserranom&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-<h3 align="center"> ¡GRACIAS POR LA VISITA! </h3>
