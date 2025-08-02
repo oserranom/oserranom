@@ -6,11 +6,11 @@
   <img src="https://i.imgur.com/UdHeQBh.png" alt="Banner" />
 </p>
 
-¡Bienvenido a mi perfil de GitHub!<br><br>
+¡Bienvenido a mi perfil de GitHub!<br><br> 
 
-Hola, soy desarrollador Full Stack con pasión por crear soluciones tecnológicas prácticas y eficientes. Me encanta transformar ideas en aplicaciones reales usando tecnologías como Node.js, TypeScript, Vue y C#, siempre aprendiendo y mejorando.
+Soy desarrollador Full Stack y lo que más disfruto es crear soluciones tecnológicas prácticas y eficientes. Me encanta transformar ideas en aplicaciones reales usando tecnologías como Node.js, TypeScript, Vue y C#, siempre aprendiendo y mejorando.
 
-Mi experiencia anterior en otro sector me ha dado una perspectiva diferente para abordar problemas con creatividad y enfoque analítico, pero mi verdadero motor hoy es la tecnología y el desarrollo de software.
+Mi experiencia anterior en el sector farmacéutico me ha dado una perspectiva diferente para abordar problemas con creatividad y enfoque analítico, pero mi verdadero motor hoy es la tecnología y el desarrollo de software.
 
 Creo firmemente en la colaboración y en entender a fondo las necesidades de cada proyecto para aportar valor real. Si tienes un reto o una idea que quieras llevar adelante, ¡hablemos y construyamos algo genial juntos!
 ---
