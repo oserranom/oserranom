@@ -69,7 +69,6 @@ I strongly believe in collaboration and deeply understanding each project’s ne
   <img src="https://github-readme-stats.vercel.app/api?username=oserranom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="47%" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oserranom&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="47%" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=oserranom&theme=vue" alt="GitHub Contribution Graph" />
 
 </div>
 
