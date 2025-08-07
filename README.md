@@ -12,7 +12,7 @@ Soy desarrollador Full Stack y lo que más disfruto es crear soluciones tecnoló
 
 Mi experiencia anterior en el sector farmacéutico me ha dado una perspectiva diferente para abordar problemas con creatividad y enfoque analítico, pero mi verdadero motor hoy es la tecnología y el desarrollo de software.
 
-Creo firmemente en la colaboración y en entender a fondo las necesidades de cada proyecto para aportar valor real. Si tienes un reto o una idea que quieras llevar adelante, ¡hablemos y construyamos algo genial juntos!
+Disfruto de colaborar con otros profesionales del sector y materializar ideas en proyectos, de manera que si tienes un reto o una idea que quieras llevar adelante, ¡hablemos y construyamos algo genial juntos!
 
 ---
 
@@ -22,7 +22,7 @@ I’m a Full Stack developer who truly enjoys creating practical and efficient t
 
 My previous experience in the pharmaceutical sector has given me a different perspective to approach problems with creativity and analytical thinking, but today my true drive is technology and software development.
 
-I strongly believe in collaboration and deeply understanding each project’s needs to bring real value. If you have a challenge or idea you want to pursue, let’s talk and build something great together!
+I enjoy collaborating and turning ideas into real projects. If you have a challenge or idea you want to pursue, let’s talk and build something great together!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oserranom/">
