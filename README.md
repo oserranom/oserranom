@@ -76,3 +76,4 @@ I enjoy collaborating and turning ideas into real projects. If you have a challe
 ---
 
 <p align="center">Gracias por la visita 🙏</p>
+![Profile views](https://komarev.com/ghpvc/?username=oserranom)
